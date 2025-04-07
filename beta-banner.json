@@ -1,10 +1,7 @@
 {
   "enabled": true,
   "formattedMessages": [
-    "\u001b[33;1m      _               _   _           _   \n     | |             | | | |         | |  \n     | |__  _   _ ___| |_| |__   ___ | |_ \n     | '_ \\| | | / __| __| '_ \\ / _ \\| __|\n     | | | | |_| \\__ \\ |_| | | | (_) | |_ \n     |_| |_|\\__,_|___/\\__|_| |_|\\___/ \\__|\u001b[0m\n\n\u001b[32;1m🚀 Hardhat 3 beta is now available!\u001b[0m\n\u001b[37mGet early access to faster builds, improved DX, and powerful new features.\u001b[0m\n\n\u001b[36m👉 Run\u001b[0m npm install hardhat@next \u001b[36mto try it out!\u001b[0m",
-    "\u001b[32;1m🚀 Hardhat 3 beta\u001b[0m is out! \u001b[36mRun\u001b[0m npm install hardhat@next \u001b[36mto try it.\u001b[0m",
-    "\u001b[35m🧪 Hardhat 3 beta is here!\u001b[0m\n\u001b[37mTry it now and share your feedback — we’re listening.\u001b[0m",
-    "\u001b[34;1m🔧 Hardhat 3 brings new plugin APIs and DX improvements.\u001b[0m\n\u001b[36mTry the beta:\u001b[0m npm install hardhat@next"
+    "We have a new beta version of Hardhat available! Check it out with npm install hardhat@next"
   ],
   "minSecondsBetweenDisplays": 30,
   "minSecondsBetweenRequests": 120
